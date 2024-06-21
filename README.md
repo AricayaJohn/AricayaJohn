@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on my FlatIron and C0D3 Bootcamp<br>👯 I’m looking to collaborate on any Web Projects<br>🤝 I’m looking for help with Mentorship<br>🌱 I’m currently learning React JS<br>💬 Ask me about Electric Vehicles<br>⚡ Fun fact I test Autonomous Cars
+# 👈🏼 About Me:
+🔭 I’m currently working on my FlatIron and C0D3 Bootcamp<br> 🫡 I’m looking to collaborate on any Web Projects<br>🤝 I’m looking for help with Mentorship<br>🌱 I’m currently learning React JS<br>💬 Ask me about Electric Vehicles <br> ⚡ Fun fact I test Autonomous Cars
 
 
 ## 🌐 Socials:
